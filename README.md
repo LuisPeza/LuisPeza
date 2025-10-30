@@ -1,4 +1,5 @@
-## Hi there 👋
+<h1 align="center"> ## Hola, soy Luis Pérez. 👋 </h1>
+<h3 align="center">Apasionado por la tecnologia un gusto conocerte.</h3>
 
 <!--
 **LuisPeza/LuisPeza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
