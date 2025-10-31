@@ -1,4 +1,4 @@
-<h1 align="center"> ## Hola, soy Luis Pérez. 👋 </h1>
+<h1 align="center"> Hola, soy Luis Pérez. 👋 </h1>
 <h3 align="center">Apasionado por la tecnologia un gusto conocerte.</h3>
 
 <!--
