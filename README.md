@@ -8,3 +8,9 @@ Ingeniero con +10 años de experiencia laboral dentro del departamento de TI, al
 
 Skill:
 - Python
+- SQL
+- Tableau
+- Power BI
+- Visual Studio Code, PHP, HTML5
+- Administracion de servidores, administrador de firewall, dominios y proxy, telefonia IP. 
+- SAP business One, contpaq, sharepoint, office 365, onedrive, dropbox
