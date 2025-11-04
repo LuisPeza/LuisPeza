@@ -13,12 +13,8 @@
 
 Ingeniero con +10 años de experiencia laboral dentro del departamento de TI, al brindar soporte y aplicación técnica para impulsar el flujo de sistemas, redes, herramientas e infraestructura TI del negocio. Con experiencia como Analista de Datos Jr. en la extracción y visualización de información (SQL/Excel, etc.) para contribuir a la homologación de operaciones y cumplimiento de objetivos. Especialista en participar dentro de la planeación, desarrollo y seguimiento de proyectos TI para innovar y transformar los procedimientos y mejorar la toma de decisiones para la empresa.
 
-Skill:
-- Python
-- SQL
 - Tableau
 - Power BI
-- Visual Studio Code, PHP, HTML5
 - Administracion de servidores, administrador de firewall, dominios y proxy, telefonia IP. 
 - SAP business One, contpaq, sharepoint, office 365, onedrive, dropbox
 
@@ -26,12 +22,12 @@ Skill:
 
 <p>
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
-    <img alt="Sql" src="https://img.shields.io/badge/Sql%20-%2314354C.svg?logo=python&logoColor=blue">
-    <img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white">
+	<img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
+    <img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white">
+	<img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white">
+	<img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white">
     <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white">
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
-    
-   
 </p>  
 
 ### 🧰 Librerias y Frameworks
@@ -39,10 +35,8 @@ Skill:
 <p>
      <img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white">
     <img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white">
-    <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white">
-    <img alt="Angular" src="https://img.shields.io/badge/Angular%20-%23D00000.svg?logo=Angular&logoColor=white">
-    <img alt="Spring" src="https://img.shields.io/badge/Spring%20Boot%20-%2334A853.svg?logo=Springboot&logoColor=white">
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%23150458.svg?logo=Bootstrap&logoColor=white">
+	<img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+	
 </p>
 
 
