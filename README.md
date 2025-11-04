@@ -13,11 +13,6 @@
 
 Ingeniero con +10 años de experiencia laboral dentro del departamento de TI, al brindar soporte y aplicación técnica para impulsar el flujo de sistemas, redes, herramientas e infraestructura TI del negocio. Con experiencia como Analista de Datos Jr. en la extracción y visualización de información (SQL/Excel, etc.) para contribuir a la homologación de operaciones y cumplimiento de objetivos. Especialista en participar dentro de la planeación, desarrollo y seguimiento de proyectos TI para innovar y transformar los procedimientos y mejorar la toma de decisiones para la empresa.
 
-- Tableau
-- Power BI
-- Administracion de servidores, administrador de firewall, dominios y proxy, telefonia IP. 
-- SAP business One, contpaq, sharepoint, office 365, onedrive, dropbox
-
 ### 👨‍💻 Lenguajes de programación y herramientas
 
 <p>
@@ -28,6 +23,9 @@ Ingeniero con +10 años de experiencia laboral dentro del departamento de TI, al
 	<img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white">
     <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white">
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
+	<img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white">
+	<img alt="PowerBI" src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=PowerBI&logoColor=white">
+	
 </p>  
 
 ### 🧰 Librerias y Frameworks
@@ -36,6 +34,8 @@ Ingeniero con +10 años de experiencia laboral dentro del departamento de TI, al
      <img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white">
     <img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white">
 	<img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+	<img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=Markdown&logoColor=white">
+	<img alt="Scikit-learn" src="https://img.shields.io/badge/ScikitLearn-F7931E?style=flat-square&logo=Scikit-learn&logoColor=white">
 	
 </p>
 
