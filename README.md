@@ -11,7 +11,7 @@
 	</a>
 </p>
 
-Ingeniero con +10 años de experiencia laboral dentro del departamento de TI, al brindar soporte y aplicación técnica para impulsar el flujo de sistemas, redes, herramientas e infraestructura TI del negocio. Con experiencia como Analista de Datos Jr. en la extracción y visualización de información (SQL/Excel, etc.) para contribuir a la homologación de operaciones y cumplimiento de objetivos. Especialista en participar dentro de la planeación, desarrollo y seguimiento de proyectos TI para innovar y transformar los procedimientos y mejorar la toma de decisiones para la empresa.
+Ingeniero con +8 años de experiencia laboral dentro del departamento de TI, al brindar soporte y aplicación técnica para impulsar el flujo de sistemas, redes, herramientas e infraestructura TI del negocio. Con experiencia como Analista de Datos Jr. en la extracción y visualización de información (SQL/Excel, etc.) para contribuir a la homologación de operaciones y cumplimiento de objetivos. Especialista en participar dentro de la planeación, desarrollo y seguimiento de proyectos TI para innovar y transformar los procedimientos y mejorar la toma de decisiones para la empresa.
 
 ### 👨‍💻 Lenguajes de programación y herramientas
 
