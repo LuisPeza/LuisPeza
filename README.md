@@ -53,7 +53,7 @@ Ingeniero con **+8 años de experiencia** transformando la infraestructura tecno
 
 ### 📊 Estadísticas de GitHub
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=LuisPeza&show_icons=true&theme=tokyonight" alt="LuisPeza's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LuisPeza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="LuisPeza's GitHub stats" />
 </p>
 
 ---
