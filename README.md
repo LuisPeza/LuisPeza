@@ -68,4 +68,6 @@ Ingeniero con **+8 años de experiencia** transformando la infraestructura tecno
 **Modelado de Abandono de Suscripción (Churn) en Gimnasios**
 **Situación:** Analizar los perfiles digitalizados de los clientes para elaborar una estrategia de retención efectiva basada en su comportamiento y características demográficas.
 * **Acción:** Realizar modelado de maching learning para segmentación de grupos
-* **Resultado:** Se realizo la segmentacion de usuarios de alta lealtad y clientes de riesgo y se realizan recomentaciones pertinentes para mitigar la perdida de clientes. 
+* **Resultado:** Se realizo la segmentacion de usuarios de alta lealtad y clientes de riesgo y se realizan recomentaciones pertinentes para mitigar la perdida de clientes.
+* 
+* [Ver Repositorio ↗️](https://github.com/LuisPeza/Proyecto_13/blob/main/README.md)
