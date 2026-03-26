@@ -1,48 +1,67 @@
-<img src="https://github.com/LuisPeza/Imagen/blob/main/ana.png " alt="banner soy luis ">
+<p align="center">
+  <img src="https://github.com/LuisPeza/Imagen/blob/main/ana.png?raw=true" alt="Banner Analista de Datos Luis Pérez" width="100%">
+</p>
 
-<h1 align="center"> Hola, soy Luis Pérez. 👋 </h1>
-<h3 align="center">Apasionado por la tecnologia un gusto conocerte.</h3>
+<h1 align="center"> Hola, soy Luis Pérez 👋 </h1>
 
 <p align="center">
-	<a href="mailto:luisperzamo@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://www.linkedin.com/in/luisgpzamorano/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/LuisPeza">
-		<img src="https://img.shields.io/github/followers/bouaskaoun?label=Followers" alt="bouaskaoun" />
-	</a>
+  <strong>Ingeniero de Sistemas | Analista de Datos Jr. | Especialista en Infraestructura TI</strong>
 </p>
 
-Ingeniero con +8 años de experiencia laboral dentro del departamento de TI, al brindar soporte y aplicación técnica para impulsar el flujo de sistemas, redes, herramientas e infraestructura TI del negocio. Con experiencia como Analista de Datos Jr. en la extracción y visualización de información (SQL/Excel, etc.) para contribuir a la homologación de operaciones y cumplimiento de objetivos. Especialista en participar dentro de la planeación, desarrollo y seguimiento de proyectos TI para innovar y transformar los procedimientos y mejorar la toma de decisiones para la empresa.
-
-### 👨‍💻 Lenguajes de programación y herramientas
-
-<p>
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
-	<img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
-    <img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white">
-	<img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white">
-	<img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white">
-    <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white">
-    <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
-	<img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white">
-	<img alt="PowerBI" src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=PowerBI&logoColor=white">
-	
-</p>  
-
-### 🧰 Librerias y Frameworks
-
-<p>
-     <img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white">
-    <img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white">
-	<img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-	<img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=Markdown&logoColor=white">
-	<img alt="Scikit-learn" src="https://img.shields.io/badge/ScikitLearn-F7931E?style=flat-square&logo=Scikit-learn&logoColor=white">
-	
+<p align="center">
+  <a href="mailto:luisperzamo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/luisgpzamorano/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <img src="https://img.shields.io/github/followers/LuisPeza?label=Followers&style=for-the-badge" alt="Followers" />
 </p>
 
+---
 
+### 🚀 Sobre mí
 
+Ingeniero con **+8 años de experiencia** transformando la infraestructura tecnológica en el sector comercial. Mi trayectoria combina la solidez técnica de la administración de sistemas y redes con una especialización estratégica en **Análisis de Datos**. 
 
-<!--
-**LuisPeza/LuisPeza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* **Enfoque actual:** Optimización de procesos y toma de decisiones mediante el uso de Python, SQL y herramientas de visualización.
+* **Logros clave:** Implementación de tableros automatizados de ROI y gestión integral de migraciones tecnológicas sin interrupción operativa.
+* **Especialista en:** Metodología STAR para la resolución de problemas y entrega de resultados medibles.
 
+---
+
+### 🛠️ Tecnologías y Herramientas
+
+#### **Análisis y Visualización de Datos**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white" alt="Numpy">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=power-bi&logoColor=black" alt="PowerBI">
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau">
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-Learn">
+</p>
+
+#### **Infraestructura y Desarrollo**
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white" alt="Markdown">
+</p>
+
+---
+
+### 📊 Estadísticas de GitHub
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=LuisPeza&show_icons=true&theme=tokyonight" alt="LuisPeza's GitHub stats" />
+</p>
+
+---
+
+### 📈 Proyecto Destacado: Optimización de Marketing
+**Análisis de Rentabilidad y Comportamiento de Compra**
+* **Situación:** Una plataforma de ticketing necesitaba optimizar su gasto publicitario.
+* **Acción:** Análisis de LTV, CAC y ROMI utilizando Python para procesar registros de visitas y pedidos.
+* **Resultado:** Se identificaron canales con un **ROMI del 159.5%** y se recomendó la redistribución del presupuesto hacia fuentes con un CAC 68% más bajo.
+* [Ver Repositorio ↗️](https://github.com/LuisPeza/Proyecto-Marketing)
 
