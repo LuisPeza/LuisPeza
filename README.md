@@ -58,7 +58,8 @@ Ingeniero con **+8 años de experiencia** transformando la infraestructura tecno
 
 ---
 
-### 📈 Proyecto Destacado: Optimización de Marketing
+### 📈 Proyectos Destacado: Optimización de Marketing
+
 **Análisis de Rentabilidad y Comportamiento de Compra**
 * **Situación:** Una plataforma de ticketing necesitaba optimizar su gasto publicitario.
 * **Acción:** Análisis de LTV, CAC y ROMI utilizando Python para procesar registros de visitas y pedidos.
