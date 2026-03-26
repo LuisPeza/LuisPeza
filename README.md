@@ -63,5 +63,5 @@ Ingeniero con **+8 años de experiencia** transformando la infraestructura tecno
 * **Situación:** Una plataforma de ticketing necesitaba optimizar su gasto publicitario.
 * **Acción:** Análisis de LTV, CAC y ROMI utilizando Python para procesar registros de visitas y pedidos.
 * **Resultado:** Se identificaron canales con un **ROMI del 159.5%** y se recomendó la redistribución del presupuesto hacia fuentes con un CAC 68% más bajo.
-* [Ver Repositorio ↗️](https://github.com/LuisPeza/Proyecto-Marketing)
+* [Ver Repositorio ↗️](https://github.com/LuisPeza/Proyecto_9)
 
